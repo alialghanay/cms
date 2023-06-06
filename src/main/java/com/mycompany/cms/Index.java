@@ -33,6 +33,7 @@ public class Index extends javax.swing.JFrame {
         passwordLabel = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Loign in");
 
         usernameTextField.setText("Enter Username");
         usernameTextField.setToolTipText("");
